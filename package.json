@@ -1,0 +1,22 @@
+{
+  "name": "csv-magic",
+  "version": "1.0.0",
+  "description": "Easily turn csv into arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFlyingPan/csv-magic.git"
+  },
+  "author": "TheFlyingPan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFlyingPan/csv-magic/issues"
+  },
+  "homepage": "https://github.com/TheFlyingPan/csv-magic#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
