@@ -1,6 +1,6 @@
 {
   "name": "@theflyingpan/csv-magic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily turn csv into arrays",
   "main": "index.js",
   "scripts": {
