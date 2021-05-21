@@ -18,5 +18,13 @@
   "homepage": "https://github.com/TheFlyingPan/csv-magic#readme",
   "dependencies": {
     "csv-parse": "^4.15.4"
-  }
+  },
+  "keywords": [
+    "csv",
+    "csv-parse",
+    "csv-magic",
+    "parsing",
+    "promise",
+    "promises"
+  ]
 }
